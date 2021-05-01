@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/travelPlanner.github.io/static/css/main.98ed91fe.chunk.css",
+    "main.js": "/travelPlanner.github.io/static/js/main.7e89533b.chunk.js",
+    "main.js.map": "/travelPlanner.github.io/static/js/main.7e89533b.chunk.js.map",
+    "runtime-main.js": "/travelPlanner.github.io/static/js/runtime-main.4ab40871.js",
+    "runtime-main.js.map": "/travelPlanner.github.io/static/js/runtime-main.4ab40871.js.map",
+    "static/js/2.ca33e566.chunk.js": "/travelPlanner.github.io/static/js/2.ca33e566.chunk.js",
+    "static/js/2.ca33e566.chunk.js.map": "/travelPlanner.github.io/static/js/2.ca33e566.chunk.js.map",
+    "index.html": "/travelPlanner.github.io/index.html",
+    "static/css/main.98ed91fe.chunk.css.map": "/travelPlanner.github.io/static/css/main.98ed91fe.chunk.css.map",
+    "static/js/2.ca33e566.chunk.js.LICENSE.txt": "/travelPlanner.github.io/static/js/2.ca33e566.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ab40871.js",
+    "static/js/2.ca33e566.chunk.js",
+    "static/css/main.98ed91fe.chunk.css",
+    "static/js/main.7e89533b.chunk.js"
+  ]
+}
